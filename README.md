@@ -1,7 +1,7 @@
 ## Flutter Wallet App
 ---
 <br>
-<a href="https://github.com/bcExpt1123/flutter_wallet_app/releases/download/v1.0.0/app-release.apk">
+<a href="https://github.com/bcExpt1123/flutter-wallet-app/releases/download/v1.0.0/app-release.apk">
   <img src="https://playerzon.com/asset/download.png" width="200"></img>
 </a>
 
